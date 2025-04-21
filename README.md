@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 📓 About Me
 
-- 🌱 I’m learning **[New Technology or Skill]**
+- 🌱 I’m learning **[Full stack web development ]**
 - 👯 I’m looking to collaborate on **[Open Source Projects or Topics]**
 - 💬 Ask me about **[software development, mern stack ]**
 - 📫 How to reach me: **[nishantsevak7989@gmail.com]**
