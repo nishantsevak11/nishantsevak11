@@ -1,91 +1,73 @@
-🌠 Nishant Sevak - Crafting Digital Galaxies
+# 🌌 Nishant Sevak - Cosmic Code Crafter
 
-🌌 Weaving code into cosmic experiences, one pixel at a time.
+✨ Turning ideas into stellar digital experiences with code and creativity.
 
+## 👨‍💻 Who Am I?
 
-🚀 Who Am I?
-Hey there! I’m Nishant Sevak, a Full-Stack Developer from Udaipur, India, with a passion for crafting innovative web applications. Currently pursuing a BCA at Mohanlal Sukhadia University, I blend creativity with tech to build solutions that shine. From AI-powered platforms to cosmic-themed portfolios, I love turning ideas into reality.
+Hey! I'm Nishant Sevak, a Full-Stack Developer from Udaipur, India, passionate about crafting innovative web applications. Currently pursuing a BCA at Mohanlal Sukhadia University, I blend tech with imagination to build solutions that shine—from AI-powered platforms to cosmic-themed portfolios.
 
-📍 Location: Udaipur, India
-☕ Fuel: 1,500+ cups of coffee and counting!
-🌟 Mission: Create user-friendly, visually stunning digital experiences
+📍 **Location:** Udaipur, India  
+☕ **Fuel:** 1,500+ cups of coffee and counting!  
+🎯 **Mission:** Create user-friendly, visually stunning digital worlds  
 
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
+| Frontend       | Backend        | Tools           |
+|----------------|----------------|-----------------|
+| React.js       | Node.js        | Git & GitHub    |
+| Next.js        | Express.js     | Postman         |
+| Tailwind CSS   | MongoDB        | Vercel          |
+| GSAP           | MySQL          | REST APIs       |
 
+## 🌟 Stellar Projects
 
+### [Titan Portfolio](GitHub)
+📂 A futuristic portfolio with sleek animations and a cosmic vibe.  
+**Tech:** Next.js, Tailwind CSS, GSAP
 
-Frontend
-Backend
-Tools
+### [AI Quote Sender](GitHub)
+📂 A web app delivering personalized quotes with secure authentication.  
+**Tech:** React.js, Node.js, MongoDB, JWT
 
+### [Krishna Web](GitHub)
+📂 A divine portfolio inspired by Lord Krishna with Sanskrit shlokas.  
+**Tech:** React.js, Tailwind CSS
 
+### [Eternal Cascade](GitHub)
+📂 A nature-inspired site with 3D water and mountain effects.  
+**Tech:** Next.js, GSAP
 
-React.js
-Node.js
-Git & GitHub
+### [AI Business Web](GitHub)
+📂 A modern AI-driven business platform with seamless UX.  
+**Tech:** Next.js, MongoDB
 
+🔗 **Explore More:** Cosmic Theme, Joyspiral, Quiz Website
 
-Next.js
-Express.js
-Postman
+## 🏆 Achievements
 
+- 🚀 AI Efficiency: Improved AI project performance by 30% in 6 months
+- 📈 User Engagement: Boosted engagement by 50% with interactive chatbots
+- ⚡ API Optimization: Slashed API response times by 40%
 
-Tailwind CSS
-MongoDB
-Vercel
+## 🎓 Education & Certifications
 
+**BCA, Computer Science**  
+Mohanlal Sukhadia University (2022–2025)
 
-GSAP
-MySQL
-REST APIs
+**Certifications:**
+- 📜 Postman API Fundamentals
+- 💻 HackerRank Software Engineer Intern
+- 🌐 freeCodeCamp Responsive Web Design
+- 📊 Scaler Data Science Fundamentals
 
+## 🌍 Let's Connect
 
+[📧 Email](mailto:your-email@example.com) | 
+[🔗 LinkedIn](https://linkedin.com/in/yourprofile) | 
+[🐙 GitHub](https://github.com/yourusername)
 
-🌟 Stellar Projects
-Titan Portfolio
-📜 GitHubA futuristic portfolio with sleek animations and a cosmic vibe.Tech: Next.js, Tailwind CSS, GSAP
-AI Quote Sender
-📜 GitHubA web app delivering personalized quotes with secure authentication.Tech: React.js, Node.js, MongoDB, JWT
-Krishna Web
-📜 GitHubA divine portfolio inspired by Lord Krishna, featuring Sanskrit shlokas.Tech: React.js, Tailwind CSS
-Eternal Cascade
-📜 GitHubA nature-inspired site with 3D water and mountain effects.Tech: Next.js, GSAP
-AI Business Web
-📜 GitHubA modern AI-driven business platform with seamless UX.Tech: Next.js, MongoDB
-🔗 More Creations:
+## ✨ Why I Code
 
-Cosmic Theme Website
-Joyspiral Theme
-Quiz Website
+Code is my canvas, and the web is my galaxy. Whether it's a divine Krishna-inspired design or a sleek AI platform, I strive to create experiences that inspire and delight. Every bug is a star waiting to shine, and every project is a step toward a brighter digital universe.
 
-
-🏆 Achievements
-
-🚀 AI Efficiency: Improved AI project performance by 30% in 6 months.
-📈 User Engagement: Boosted engagement by 50% with interactive chatbots.
-⚡ API Optimization: Slashed API response times by 40%.
-
-
-🎓 Education & Certifications
-
-BCA, Computer ScienceMohanlal Sukhadia University (2022–2025)
-
-Certifications:
-
-🛠️ Postman API Fundamentals
-💻 HackerRank Software Engineer Intern
-🌐 freeCodeCamp Responsive Web Design
-📊 Scaler Data Science Fundamentals
-
-
-
-
-🌍 Let’s Connect
-
-✨ Why I Code
-Code is my canvas, and the web is my galaxy. Whether it’s a divine Krishna-inspired design or a sleek AI platform, I strive to create experiences that inspire and delight. Every bug is a star waiting to shine, and every project is a step toward a brighter digital universe.
-
-“In the cosmos of code, I build worlds that spark joy.”
-
-
+> "In the cosmos of code, I build worlds that spark joy."
