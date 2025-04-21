@@ -1,71 +1,45 @@
-# 🌌 Nishant Sevak - Cosmic Code Crafter
+# 🌟 Hi there, I'm Nishant! 👋
 
-✨ Turning ideas into stellar digital experiences with code and creativity.
+Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building impactful projects. 🚀
 
-## 👨‍💻 Who Am I?
+---
 
-Hey! I'm Nishant Sevak, a Full-Stack Developer from Udaipur, India, passionate about crafting innovative web applications. Currently pursuing a BCA at Mohanlal Sukhadia University, I blend tech with imagination to build solutions that shine—from AI-powered platforms to cosmic-themed portfolios.
+## 🛠️ Skills & Technologies
 
-📍 **Location:** Udaipur, India
-🎯 **Mission:** Create user-friendly, visually stunning digital worlds  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7E018?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🛠️ Tech Stack
+---
 
-| Frontend       | Backend        | Tools           |
-|----------------|----------------|-----------------|
-| React.js       | Node.js        | Git & GitHub    |
-| Next.js        | Express.js     | Postman         |
-| Tailwind CSS   | MongoDB        | Vercel          |
-| GSAP           | MySQL          | REST APIs       |
+## 📓 About Me
 
-## 🌟 Stellar Projects
+- 🌱 I’m learning **[New Technology or Skill]**
+- 👯 I’m looking to collaborate on **[Open Source Projects or Topics]**
+- 💬 Ask me about **[software development, mern stack ]**
+- 📫 How to reach me: **[nishantsevak7989@gmail.com]**
 
-### [Titan Portfolio](GitHub)
-📂 A futuristic portfolio with sleek animations and a cosmic vibe.  
-**Tech:** Next.js, Tailwind CSS, GSAP
+---
 
-### [AI Quote Sender](GitHub)
-📂 A web app delivering personalized quotes with secure authentication.  
-**Tech:** React.js, Node.js, MongoDB, JWT
+## 🌟 Featured Projects
 
-### [Krishna Web](GitHub)
-📂 A divine portfolio inspired by Lord Krishna with Sanskrit shlokas.  
-**Tech:** React.js, Tailwind CSS
+Here is portfolio of my favorite projects:
 
-### [Eternal Cascade](GitHub)
-📂 A nature-inspired site with 3D water and mountain effects.  
-**Tech:** Next.js, GSAP
+- [**portfolio**](https://nishantsevak.vercel.app/)
+  👉 *This is my portfolio website you can find my projects here please check it out you really love it*
+ 
+---
 
-### [AI Business Web](GitHub)
-📂 A modern AI-driven business platform with seamless UX.  
-**Tech:** Next.js, MongoDB
 
-🔗 **Explore More:** Cosmic Theme, Joyspiral, Quiz Website
 
-## 🏆 Achievements
+## 🌍 Connect With Me
 
-- 🚀 AI Efficiency: Improved AI project performance by 30% in 6 months
-- 📈 User Engagement: Boosted engagement by 50% with interactive chatbots
-- ⚡ API Optimization: Slashed API response times by 40%
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishantsevak)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://nishantsevak.vercel.app/)
 
-## 🎓 Education & Certifications
 
-**BCA, Computer Science**  
-Mohanlal Sukhadia University (2022–2025)
+---
 
-**Certifications:**
-- 📜 Postman API Fundamentals
-- 💻 HackerRank Software Engineer Intern
-- 🌐 freeCodeCamp Responsive Web Design
-- 📊 Scaler Data Science Fundamentals
-
-## 🌍 Let's Connect
-
-[📧 Email](mailto:nishantsevak7989@gmail.com) | 
-[🔗 LinkedIn](https://linkedin.com/in/nishantsevak) | 
-
-## ✨ Why I Code
-
-Code is my canvas, and the web is my galaxy. Whether it's a divine Krishna-inspired design or a sleek AI platform, I strive to create experiences that inspire and delight. Every bug is a star waiting to shine, and every project is a step toward a brighter digital universe.
-
-> "In the cosmos of code, I build worlds that spark joy."
+⭐️ *Feel free to explore my repositories and contribute to my projects!*
