@@ -6,8 +6,7 @@
 
 Hey! I'm Nishant Sevak, a Full-Stack Developer from Udaipur, India, passionate about crafting innovative web applications. Currently pursuing a BCA at Mohanlal Sukhadia University, I blend tech with imagination to build solutions that shine—from AI-powered platforms to cosmic-themed portfolios.
 
-📍 **Location:** Udaipur, India  
-☕ **Fuel:** 1,500+ cups of coffee and counting!  
+📍 **Location:** Udaipur, India
 🎯 **Mission:** Create user-friendly, visually stunning digital worlds  
 
 ## 🛠️ Tech Stack
@@ -62,9 +61,8 @@ Mohanlal Sukhadia University (2022–2025)
 
 ## 🌍 Let's Connect
 
-[📧 Email](mailto:your-email@example.com) | 
-[🔗 LinkedIn](https://linkedin.com/in/yourprofile) | 
-[🐙 GitHub](https://github.com/yourusername)
+[📧 Email](mailto:nishantsevak7989@gmail.com) | 
+[🔗 LinkedIn](https://linkedin.com/in/nishantsevak) | 
 
 ## ✨ Why I Code
 
