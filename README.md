@@ -1,8 +1,6 @@
 <div align="center" style="background-image: url('https://raw.githubusercontent.com/nishantsevak/nishantsevak/main/bg.gif'); background-size: cover; padding: 50px 0; border-radius: 15px;">
 
-<a href="https://github.com/nishantsevak">
-<img src="https://raw.githubusercontent.com/nishantsevak/nishantsevak/main/profile.png" width="150px" alt="Profile Picture" style="border-radius: 50%; border: 5px solid #00c7ff;">
-</a>
+
 
 <br>
 
