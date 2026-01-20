@@ -1,101 +1,102 @@
-<div align="center">
+<div align="center" style="background-image: url('https://raw.githubusercontent.com/nishantsevak/nishantsevak/main/bg.gif'); background-size: cover; padding: 60px 0; border-radius: 15px; border: 1px solid rgba(255,255,255,0.1);">
 
-<h1>Nishant Sevak</h1>
+<br>
 
-<p>
-Software Engineer building full-stack systems, backend platforms, and AI-integrated applications.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&color=FFFFFF&center=true&vCenter=true&width=720&lines=Nishant+Sevak;Software+Engineer;Building+Scalable+Systems+with+AI;Full+Stack+%7C+Backend+%7C+Systems" />
+
+<h3 style="color: #58a6ff;">Software Engineer</h3>
+
+<p style="color: #c9d1d9; max-width: 85%; margin: auto; line-height: 1.6; font-size: 16px;">
+I build real-world software systems across domains — from full-stack platforms and backend services to AI-integrated workflows and complex user interfaces.
+<br><br>
+I focus on system design, adaptability, and end-to-end ownership. I actively use AI as a development accelerator, while retaining control over architecture, decisions, and debugging.
 </p>
 
-<p>
-<a href="https://www.linkedin.com/in/nishantsevak">LinkedIn</a> ·
-<a href="mailto:nishantsevak7989@gmail.com">Email</a> ·
-<a href="https://nishantsevak.vercel.app/">Portfolio</a>
-</p>
+<br>
+
+<div>
+<a href="https://www.linkedin.com/in/nishantsevak" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nishantsevak7989@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://nishantsevak.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+</div>
 
 </div>
 
----
+<br>
 
-## About Me
+<h2 align="center">⚙️ Experience Highlights</h2>
 
-I am a Software Engineer who enjoys building systems that solve real problems across different domains.
+<table width="100%" style="border: none;">
+<tr>
+<td style="background-color:#0d1117; padding:20px; border-radius:10px; border:1px solid #30363d;">
+<h3 style="color:#58a6ff; margin-bottom:5px;">Software Engineer — Techon Dater Systems</h3>
+<p style="color:#8b949e; margin-top:0;">Built complex, highly interactive systems requiring advanced state management, real-time rendering, and extensible architecture.</p>
+<ul>
+<li>Designed configuration-driven UI engines capable of rendering and managing dozens of interactive components.</li>
+<li>Implemented advanced layout, grouping, routing, and performance optimization logic.</li>
+<li>Worked on real-time visualization and geospatial interfaces for live data.</li>
+</ul>
+</td>
+</tr>
+<tr><td height="10"></td></tr>
+<tr>
+<td style="background-color:#0d1117; padding:20px; border-radius:10px; border:1px solid #30363d;">
+<h3 style="color:#58a6ff; margin-bottom:5px;">Software Engineer Intern — WarrantyMe</h3>
+<p style="color:#8b949e; margin-top:0;">Worked on distributed backend systems and AI-integrated platforms.</p>
+<ul>
+<li>Built asynchronous workflows for long-horizon task execution.</li>
+<li>Integrated AI-powered assistants with external APIs.</li>
+<li>Contributed to cloud deployment, background processing, and reliability validation.</li>
+</ul>
+</td>
+</tr>
+</table>
 
-My work spans full-stack web applications, backend services, AI-integrated workflows, and highly interactive user interfaces. I have experience designing complex frontend logic, building distributed backend processes, and deploying production systems on cloud platforms.
+<br>
 
-I use AI as a development accelerator — not as a replacement for engineering judgment. I focus on understanding problems deeply, designing the system, and then executing with the right tools.
+<h2 align="center">🚀 Selected Projects</h2>
 
-I value clean architecture, adaptability, and end-to-end ownership.
+<details open>
+<summary><b>Optic Monkey — Eyewear E-Commerce Platform</b></summary>
+<br>
+<ul>
+<li>Full-scale e-commerce platform supporting prescription-based customization.</li>
+<li>Designed flexible data models and admin workflows.</li>
+<li>Handled deployment, testing, and production validation.</li>
+</ul>
+</details>
 
----
+<br>
 
-## What I Work On
+<details>
+<summary><b>Vetra Business — Multi-Tenant SaaS Platform</b></summary>
+<br>
+<ul>
+<li>Multi-tenant SaaS for digital menus and storefronts.</li>
+<li>Integrated OCR and LLM pipelines to automate data extraction.</li>
+<li>Focused on scalability and clean system boundaries.</li>
+</ul>
+</details>
 
-- Full-stack applications (React, Next.js, Node.js)
-- Backend systems and async workflows
-- AI & LLM integrations (agents, automation, data extraction)
-- Complex UI logic and visualization-heavy interfaces
-- Cloud deployment and production validation
+<br>
 
----
+<h2 align="center">🛠️ Tech Stack</h2>
 
-## Experience Highlights
+<p align="center">
+JavaScript · TypeScript · Python · React · Next.js · Node.js · REST APIs · AI / LLM Integration · AWS · Azure · GCP · Docker · Playwright
+</p>
 
-### Software Engineer — Techon Dater Systems
-- Built and maintained a highly interactive, configuration-driven system requiring complex state management and real-time rendering.
-- Designed modular architectures to support extensibility without frequent rewrites.
-- Implemented advanced UI logic including layout, grouping, routing, and performance optimization.
-- Worked on real-time data visualization and geospatial interfaces.
+<br>
 
-**Stack:** React, TypeScript, React Flow, modular frontend architecture
+<h2 align="center">🎓 Education</h2>
 
----
-
-### Software Engineer Intern — WarrantyMe
-- Worked on a digital legacy platform supporting long-horizon message delivery.
-- Built asynchronous backend workflows and background processing pipelines.
-- Integrated AI-powered assistants with external APIs.
-- Contributed to cloud deployment and reliability validation.
-
-**Stack:** Node.js, cloud services, AI integrations, media processing
-
----
-
-## Selected Projects
-
-### Optic Monkey — Eyewear E-Commerce Platform
-A full-scale e-commerce system with support for prescription-based customization and complex product logic.
-
-- Designed flexible data models for products, lenses, and inventory
-- Built admin workflows for orders, payments, and fulfillment
-- Deployed and validated critical user flows with end-to-end testing
-
----
-
-### Vetra Business — Multi-Tenant SaaS Platform
-A SaaS platform for small businesses to manage digital menus and storefronts.
-
-- Implemented tenant isolation and role-based access control
-- Integrated OCR and LLM pipelines to automate menu digitization
-- Focused on scalability and clean system boundaries
-
----
-
-## Tech I Commonly Use
-
-- **Languages:** JavaScript, TypeScript, Python
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, REST APIs, background workers
-- **AI:** LLM integration, RAG pipelines, automation workflows
-- **Cloud:** AWS, Azure, GCP
-- **Tools:** Git, Docker, Playwright
-
----
-
-## Education
-
-**Bachelor of Computer Applications (BCA)**  
+<p align="center">
+<b>Bachelor of Computer Applications (BCA)</b><br/>
 Mohanlal Sukhadia University (2022–2025)
-
----
-
-If you’re interested in building real systems, learning fast, and solving meaningful problems, feel free to reach out.
+</p>
